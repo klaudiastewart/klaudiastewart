@@ -8,7 +8,7 @@
 <p align="center">
   <ul>
     <li>
-      💻Aspiring full-stack Software Engineer
+      💻Aspiring Software Engineer
     </li>
     <li>
         👩🏽‍💻Currently a back-end engineering student at <a href="https://turing.edu/"> Turing School of Software and Design</a>
