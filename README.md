@@ -14,7 +14,7 @@
         👩🏽‍💻Currently a back-end engineering student at <a href="https://turing.edu/"> Turing School of Software and Design</a>
     </li>
     <li>
-      🛠Languages and tools include: Ruby, Rails, SQL, TDD, CSS, HTML, Javascript, Postgres, Git, Github, Heroku, Bootstrap
+      🛠Languages and tools include: Ruby, Rails, SQL, TDD, CSS, HTML, Javascript, PostgreSQL, Git, Github, Heroku, Bootstrap
     </li>
     <li>
       🌱Interested in developing applications for the safety of human health and welfare
