@@ -8,13 +8,10 @@
 <p align="center">
   <ul>
     <li>
-      💻  Software Engineer
+      💻  Software Engineer at Yesware
     </li>
     <li>
-        👩🏽‍💻  Back-end engineering student at <a href="https://turing.edu/"> Turing School of Software and Design</a>
-    </li>
-    <li>
-      🛠  Languages and tools include: Ruby, Rails, SQL, TDD, CSS, HTML, APIs, PostgreSQL, Git, Github, Heroku, Bootstrap
+      🛠  Languages and tools include: Ruby, Rails, SQL, TDD, CSS, HTML, APIs, PostgreSQL, Git, Github, Heroku, Bootstrap, AWS, JS, TS, Angular
     </li>
     <li>
       🌱  Passionate about developing applications for the safety of human health and welfare
