@@ -8,10 +8,10 @@
 <p align="center">
   <ul>
     <li>
-      💻  Software Engineer at Yesware
+      💻  Software Engineer
     </li>
     <li>
-      🛠  Languages and tools include: Ruby, Rails, SQL, TDD, CSS, HTML, APIs, PostgreSQL, Git, Github, Heroku, Bootstrap, AWS, JS, TS, Angular
+      🛠  Languages and tools include: Ruby, Rails, Typescript, Angular, AWS, Kubernetes, Docker, SQL, TDD, CSS, HTML, APIs, PostgreSQL, Git, Github, Heroku, Bootstrap, AWS, JS, TS, Angular
     </li>
     <li>
       🌱  Passionate about developing applications for the safety of human health and welfare
