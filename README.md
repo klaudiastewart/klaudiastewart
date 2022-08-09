@@ -8,7 +8,7 @@
 <p align="center">
   <ul>
     <li>
-      💻  Software Engineer
+      💻  Software Engineer at Wrapbook
     </li>
     <li>
       🛠  Languages and tools include: Ruby, Rails, Typescript, Angular, AWS, Kubernetes, Docker, SQL, TDD, CSS, HTML, APIs, PostgreSQL, Git, Github, Heroku, Bootstrap, AWS, JS, TS, Angular
