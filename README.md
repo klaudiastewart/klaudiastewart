@@ -1,7 +1,4 @@
 <h3 align="center"> Hi there, I'm Klaudia(she/her) 👋</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klaudiastewart&show_icons=true&theme=dracula"/>
-</p>
 
 ---
 <h3 align="center">About Me</h3>
